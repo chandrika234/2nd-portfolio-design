@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.navber{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: center;
+margin: 0 200px;
+    
+
+}
+nav ul{
+    display:flex;
+    
+    color: rgb(66, 66, 66);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+gap: 20px;
+    
+}
+nav ul li {
+    list-style: none;
+    
+}
+.banner .title{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.banner .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.banner .btn{
+    color: rgb(255, 255, 255);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+border-radius: 5px;
+
+background: rgb(255, 144, 14);
+width: 150px;
+height: 50px;
+
+
+
+}
+.picture{
+    border-radius: 8px;
+
+background: url(group-three-modern-architects);
+padding:60px;
+}
+.banner-item{
+    background: rgba(255, 144, 14, 0.1);
+}
+.banner{
+    text-align: center;
+}
+#image-banner-2 .image-banner-3{
+    display: flex;
+}
+.squre-image{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+    
+border-radius: 8px;
+
+background: url(aaa);
+padding: 50px 50px 50px 150px;
+
+}
+.image-banner-section .title{
+    font-family: Work Sans;
+font-size: 50px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0%;
+text-align: left;
+}
+.image-banner-3 .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.image-banner-section .btn{
+    color: rgb(255, 255, 255);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+width: 150px;
+height: 50px;
+border-radius: 8px;
+
+background: rgb(255, 144, 14);
+}
+.image-banner-section{
+    padding: 150px 100px 100px 50px;
+}
+
+.features{
+    color:rgb(255, 144, 14);
+    
+
+}
+.quick{
+    color: rgb(114, 114, 114);
+}
+#picture-banner-1 .picture-banner-2{
+    display: flex;
+}
+.banner-section-2{
+    width: 586px;
+height: 982px;
+padding: 40px 150px;
+}
+.girl-image{
+    width: 600px;
+height: 800px;
+}
+.banner-section-2  .banner-1 .title{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 25px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-1 .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-2 .title{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-2 .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-3 .title{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-3 .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-4 .title{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-4 .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-5 .title{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-section-2  .banner-5 .subtitle{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-2{
+    border-radius: 8px;
+
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+background: rgb(255, 255, 255);
+text-align: center;
+}
+.banner-3{
+    border-radius: 8px;
+
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    background: rgb(255, 255, 255);
+    text-align: center;
+    }
+    .banner-4{
+        border-radius: 8px;
+
+        box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+        background: rgb(255, 255, 255);
+        text-align: center;
+        }
+        .banner-5{
+            border-radius: 8px;
+
+            box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+            background: rgb(255, 255, 255);
+            text-align: center;
+            }
+            .picture-banner-2 .btn{
+                color: rgb(255, 255, 255);
+                border-radius: 8px;
+
+background: rgb(255, 144, 14);
+width: 200px;
+height: 100px;
+}
+            .style{
+                font-size:40px;
+                
+            }
+            .icon{
+                display: flex;
+                gap: 40px;
+                margin: 50px;
+            }
+        
+        
+    
+
+
+
+
+ 
+
